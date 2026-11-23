@@ -1,6 +1,6 @@
 # Spotify monthly listeners leaderboard
 
-The 8 artists with the most Spotify monthly listeners on **2026-11-22** (UTC), out of the 8 artists in [`artists.txt`](artists.txt). Updated once a day.
+The 8 artists with the most Spotify monthly listeners on **2026-11-23** (UTC), out of the 8 artists in [`artists.txt`](artists.txt). Updated once a day.
 
 Changes compare an artist's monthly listeners with the same artist's value 1 and 7 days earlier; — means there is no earlier value yet. World rank is Spotify's own global rank, which Spotify shows only for its most-listened artists (— for the others).
 
@@ -8,14 +8,14 @@ Changes compare an artist's monthly listeners with the same artist's value 1 and
 
 | # | Artist | Monthly listeners | 1-day change | 7-day change | Followers | World rank |
 |--:|:--|--:|--:|--:|--:|--:|
-| 1 | [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | 1,394,833 | -508 (-0.04%) | +11,998 (+0.87%) | 1,618,204 | — |
-| 2 | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | 1,165,767 | +5,562 (+0.48%) | +12,684 (+1.10%) | 1,527,257 | — |
-| 3 | [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | 948,319 | +66,367 (+7.53%) | +208,297 (+28.15%) | 1,568,448 | — |
-| 4 | [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | 923,459 | -4,534 (-0.49%) | -8,784 (-0.94%) | 1,678,297 | — |
-| 5 | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | 844,735 | +1,741 (+0.21%) | +13,498 (+1.62%) | 1,885,351 | — |
-| 6 | [Bang Chan](https://open.spotify.com/artist/5jRUIqBSxmsBPNiEwKUjgZ) | 755,529 | -1,061 (-0.14%) | +3,592 (+0.48%) | 713,693 | — |
-| 7 | [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | 528,813 | -707 (-0.13%) | +6,118 (+1.17%) | 1,671,478 | — |
-| 8 | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn) | 486,775 | +2,257 (+0.47%) | +10,444 (+2.19%) | 1,505,411 | — |
+| 1 | [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | 1,396,820 | +1,987 (+0.14%) | +12,087 (+0.87%) | 1,622,067 | — |
+| 2 | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | 1,167,570 | +1,803 (+0.15%) | +12,308 (+1.07%) | 1,530,406 | — |
+| 3 | [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | 1,030,176 | +81,857 (+8.63%) | +275,354 (+36.48%) | 1,571,874 | — |
+| 4 | [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | 918,942 | -4,517 (-0.49%) | -14,679 (-1.57%) | 1,679,542 | — |
+| 5 | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | 846,707 | +1,972 (+0.23%) | +13,096 (+1.57%) | 1,887,852 | — |
+| 6 | [Bang Chan](https://open.spotify.com/artist/5jRUIqBSxmsBPNiEwKUjgZ) | 755,537 | +8 (+0.00%) | +2,006 (+0.27%) | 714,905 | — |
+| 7 | [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | 528,749 | -64 (-0.01%) | +4,362 (+0.83%) | 1,673,755 | — |
+| 8 | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn) | 487,931 | +1,156 (+0.24%) | +11,322 (+2.38%) | 1,507,915 | — |
 
 ## Most listeners gained in 7 days
 
@@ -23,13 +23,13 @@ Among all 8 tracked artists.
 
 | # | Artist | Change | Monthly listeners |
 |--:|:--|--:|--:|
-| 1 | [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | +208,297 (+28.15%) | 948,319 |
-| 2 | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | +13,498 (+1.62%) | 844,735 |
-| 3 | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | +12,684 (+1.10%) | 1,165,767 |
-| 4 | [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | +11,998 (+0.87%) | 1,394,833 |
-| 5 | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn) | +10,444 (+2.19%) | 486,775 |
-| 6 | [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | +6,118 (+1.17%) | 528,813 |
-| 7 | [Bang Chan](https://open.spotify.com/artist/5jRUIqBSxmsBPNiEwKUjgZ) | +3,592 (+0.48%) | 755,529 |
+| 1 | [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | +275,354 (+36.48%) | 1,030,176 |
+| 2 | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | +13,096 (+1.57%) | 846,707 |
+| 3 | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | +12,308 (+1.07%) | 1,167,570 |
+| 4 | [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | +12,087 (+0.87%) | 1,396,820 |
+| 5 | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn) | +11,322 (+2.38%) | 487,931 |
+| 6 | [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | +4,362 (+0.83%) | 528,749 |
+| 7 | [Bang Chan](https://open.spotify.com/artist/5jRUIqBSxmsBPNiEwKUjgZ) | +2,006 (+0.27%) | 755,537 |
 
 ## Most listeners lost in 7 days
 
@@ -37,7 +37,7 @@ Among all 8 tracked artists.
 
 | # | Artist | Change | Monthly listeners |
 |--:|:--|--:|--:|
-| 1 | [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | -8,784 (-0.94%) | 923,459 |
+| 1 | [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | -14,679 (-1.57%) | 918,942 |
 
 ## Data
 
