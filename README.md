@@ -13,18 +13,18 @@ Unofficial: not affiliated with, endorsed by or sponsored by Spotify.
 ## Top 10 today
 
 <!-- leaderboard:start -->
-Top 8 of the tracked artists on **2026-11-23** (UTC). Full top 100 with 1-day changes: [LEADERBOARD.md](LEADERBOARD.md).
+Top 8 of the tracked artists on **2026-11-24** (UTC). Full top 100 with 1-day changes: [LEADERBOARD.md](LEADERBOARD.md).
 
 | # | Artist | Monthly listeners | 7-day change |
 |--:|:--|--:|--:|
-| 1 | [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | 1,396,820 | +12,087 (+0.87%) |
-| 2 | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | 1,167,570 | +12,308 (+1.07%) |
-| 3 | [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | 1,030,176 | +275,354 (+36.48%) |
-| 4 | [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | 918,942 | -14,679 (-1.57%) |
-| 5 | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | 846,707 | +13,096 (+1.57%) |
-| 6 | [Bang Chan](https://open.spotify.com/artist/5jRUIqBSxmsBPNiEwKUjgZ) | 755,537 | +2,006 (+0.27%) |
-| 7 | [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | 528,749 | +4,362 (+0.83%) |
-| 8 | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn) | 487,931 | +11,322 (+2.38%) |
+| 1 | [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | 1,397,525 | +11,139 (+0.80%) |
+| 2 | [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | 1,169,641 | +15,088 (+1.31%) |
+| 3 | [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | 1,117,531 | +348,963 (+45.40%) |
+| 4 | [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | 914,117 | -21,758 (-2.32%) |
+| 5 | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | 847,300 | +12,885 (+1.54%) |
+| 6 | [Bang Chan](https://open.spotify.com/artist/5jRUIqBSxmsBPNiEwKUjgZ) | 755,117 | +162 (+0.02%) |
+| 7 | [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | 527,397 | +1,445 (+0.27%) |
+| 8 | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn) | 488,166 | +10,695 (+2.24%) |
 <!-- leaderboard:end -->
 
 ## What is in this repository
